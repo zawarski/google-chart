@@ -23,7 +23,7 @@
     "google"
   ],
   "dependencies": {
-    "google-apis": "GoogleWebComponents/google-apis#1 - 2",
+    "google-apis": "GoogleWebComponents/google-apis#apiKeyChange",
     "iron-ajax": "PolymerElements/iron-ajax#1 - 2",
     "polymer": "Polymer/polymer#1.9 - 2"
   },
@@ -35,7 +35,7 @@
   "variants": {
     "1.x": {
       "dependencies": {
-        "google-apis": "GoogleWebComponents/google-apis#^1.0.0",
+        "google-apis": "GoogleWebComponents/google-apis#apiKeyChange",
         "iron-ajax": "PolymerElements/iron-ajax#^1.0.0",
         "polymer": "Polymer/polymer#^1.0.0",
         "promise-polyfill": "PolymerLabs/promise-polyfill#^1.0.0"
